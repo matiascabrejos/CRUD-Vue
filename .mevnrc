@@ -1,0 +1,8 @@
+{
+  "name": "vue-crud",
+  "template": "Default",
+  "isConfigured": {
+    "client": false,
+    "server": false
+  }
+}
